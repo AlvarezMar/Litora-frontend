@@ -1,11 +1,11 @@
-import LogoFooter from "../logo/LogoFooter";
+import LogoFooter from "./logo/LogoFooter";
 
-import youtube from "../../assets/socials/youtube.svg"
-import github from "../../assets/socials/github.svg"
-import facebook from "../../assets/socials/facebook.svg"
-import instagram from "../../assets/socials/instagram.svg"
-import linkedin from "../../assets/socials/linkedin.svg"
-import x from "../../assets/socials/x.svg"
+import youtube from "../assets/socials/youtube.svg"
+import github from "../assets/socials/github.svg"
+import facebook from "../assets/socials/facebook.svg"
+import instagram from "../assets/socials/instagram.svg"
+import linkedin from "../assets/socials/linkedin.svg"
+import x from "../assets/socials/x.svg"
 
 function Footer(){
 

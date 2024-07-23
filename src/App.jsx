@@ -1,10 +1,10 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import BooksGrid from './components/booksGrid/BooksGrid'
-import Navbar from './components/navbar/Navbar'
-import Login from './views/login/Login'
-import Header from './components/header/Header'
-import Footer from './components/footer/Footer'
+import Navbar from './components/Navbar';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import BooksGrid from './components/BooksGrid';
+import Login from './views/Login';
 
 function App() {
 

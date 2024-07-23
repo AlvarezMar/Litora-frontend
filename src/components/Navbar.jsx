@@ -1,8 +1,8 @@
-import Logo from "../logo/Logo";
+import Logo from "./logo/Logo";
 
-import cart from "../../assets/navbar/cart.svg";
-import user from "../../assets/navbar/user.svg";
-import search from "../../assets/navbar/search.svg";
+import cart from "../assets/navbar/cart.svg";
+import user from "../assets/navbar/user.svg";
+import search from "../assets/navbar/search.svg";
 import { Link } from "react-router-dom";
 
 function Navbar(){
