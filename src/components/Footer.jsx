@@ -30,23 +30,23 @@ function Footer(){
                 <div>
                     <h2 className="font-bold mb-3">Legal Information</h2>
                     <ul className="text-sm flex flex-col gap-1">
-                        <li><a href="">Terms of use</a></li>
-                        <li>Contract terms</li>
-                        <li>Data protection policy</li>
-                        <li>Returns and cancellations policy</li>
-                        <li>Cookie Policy</li>
-                        <li>Manage Cookies</li>
-                        <li>Online Dispute Resolution</li>
-                        <li>Office of best practices</li>
+                        <li><a href="#">Terms of use</a></li>
+                        <li><a href="#">Contract terms</a></li>
+                        <li><a href="#">Data protection policy</a></li>
+                        <li><a href="#">Returns and cancellations policy</a></li>
+                        <li><a href="#">Cookie Policy</a></li>
+                        <li><a href="#">Manage Cookies</a></li>
+                        <li><a href="#">Online Dispute Resolution</a></li>
+                        <li><a href="#">Office of best practices</a></li>
                     </ul>
                 </div>
                 <div>
                     <h2 className="font-bold mb-3">Contact Information</h2>
                     <ul className="text-sm flex flex-col gap-1">
-                        <li></li>
-                        <li>alvarez.majuan@hotmail.com</li>
-                        <li>+52 55 1234 5678</li>
-                        <li>+52 55 8765 4321</li>
+                        <li><a href="#">Evergreen 432-B, San Juan Tihuaca, Azcapotzalco, 02300</a></li>
+                        <li><a href="#">alvarez.majuan@hotmail.com</a></li>
+                        <li><a href="#">+52 55 1234 5678</a></li>
+                        <li><a href="#">+52 55 8765 4321</a></li>
                     </ul>
                 </div>
             </div>

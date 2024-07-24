@@ -1,0 +1,48 @@
+.header_news_3{
+    position: relative;
+    background-image: url('../assets/elegant-blurry-red-bokeh-lights-background_1017-25385.avif');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden; 
+}
+
+.banner_1_figure_1{
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    background-color: #FEE8D6;
+    border-radius: 50%;
+    right: -2rem;
+    top: -3rem;
+}
+
+.banner_1_figure_2{
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    background-color: #F5DCC8;
+    border-radius: 50%;
+    left: -1rem;
+    bottom: -2rem;
+}
+
+.banner_2_figure_1{
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    background-color: #D6EBFE;
+    border-radius: 50%;
+    top: -3rem;
+    right: 4rem;
+}
+
+.banner_2_figure_2{
+    position: absolute;
+    width: 12rem;
+    height: 12rem;
+    background-color: #DAEBFD;
+    border-radius: 50%;
+    left: -1rem;
+    bottom: -3rem;
+}
+

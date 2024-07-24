@@ -1,0 +1,40 @@
+/* .fade_image{
+    background: linear-gradient(to left, rgba(255, 255, 255, 0) - 200%, rgba(242,240,254, 1) 100%), url('../assets/library.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100%;
+    width: 100%;
+} */
+
+.fade_image{
+position: relative;
+}
+
+.circle{
+    position: absolute;
+    width: 19rem;
+    height: 19rem;
+    background-color: #FD9F58;
+    border-radius: 50%;
+    right: -3rem;
+    top: -5rem;
+}
+
+
+
+.circle_2{
+    position: absolute;
+    width: 16rem;
+    height: 16rem;
+    background-color: #D6D3F2;
+    border-radius: 50%;
+    right: 12rem;
+    bottom: -10rem;
+}
+
+.button{
+    -webkit-box-shadow: -1px 23px 32px -16px rgba(109,93,215,1);
+-moz-box-shadow: -1px 23px 32px -16px rgba(109,93,215,1);
+box-shadow: -1px 23px 32px -16px rgba(109,93,215,1);
+}
