@@ -7,8 +7,6 @@ import BooksGrid from './components/BooksGrid';
 import Login from './views/Login';
 
 function App() {
-
-  fetch("http://localhost:8080/api/v1/books").then(response => response.json()).then(data => console.log(data));
   
   return <div>
     <Navbar/>

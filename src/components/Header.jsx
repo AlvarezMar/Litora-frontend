@@ -19,7 +19,7 @@ function Header(){
                 <div className= "bg-[#FEF8F1] rounded-2xl p-7 grid h-44 relative overflow-hidden" style={{gridTemplateColumns: "2fr 1fr"}}>
 
                     <div className="z-10">
-                        <h2 className="text-2xl font-bold">New Arrivals</h2>
+                        <h2 className="text-3xl font-bold">New Arrivals</h2>
                         <button className="mt-5 bg-black text-white px-4 py-2 rounded-lg font-semibold">Latests books</button>
                     </div>
 
@@ -32,7 +32,7 @@ function Header(){
                 <div className= "bg-[#E7F1FB] rounded-2xl p-7 grid h-44 relative overflow-hidden" style={{gridTemplateColumns: "2fr 1fr"}}>
 
                     <div className="z-10">
-                        <h2 className="text-2xl font-bold">Special 50% Off</h2>
+                        <h2 className="text-3xl font-bold">Special 50% Off</h2>
                         <p>for our student community!</p>
                         <button className="mt-5 bg-black text-white px-4 py-2 rounded-lg font-semibold">Get the Deal</button>
                     </div>
