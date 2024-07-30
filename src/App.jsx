@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Login from './views/Login';
 import BookDetail from './views/BookDetail';
 import Home from './views/Home';
+import Features from './components/Features';
+import CreateBook from './views/CreateBook';
 
 function App() {
   
@@ -14,8 +16,10 @@ function App() {
       <Route path='/' element={<Home/>}/>
       <Route path='/login' element={<Login/>}/>
       <Route path='/bookDetail' element={<BookDetail/>}/>
+      <Route path='/createBook' element={<CreateBook/>}/>
 
     </Routes>
+    <Features/>
     <Footer/>
   </div>
 }
