@@ -7,6 +7,7 @@ import BookDetail from './views/BookDetail';
 import Home from './views/Home';
 import Features from './components/Features';
 import CreateBook from './views/CreateBook';
+import BookDashboard from './views/BookDashboard';
 
 function App() {
   
@@ -17,6 +18,7 @@ function App() {
       <Route path='/login' element={<Login/>}/>
       <Route path='/bookDetail' element={<BookDetail/>}/>
       <Route path='/createBook' element={<CreateBook/>}/>
+      <Route path='/bookDashboard' element={<BookDashboard/>}/>
 
     </Routes>
     <Features/>
